@@ -6,9 +6,9 @@ This repository has been created as result of the meeting between representative
 
 Over the past year, CMS projects have taken a new focus on online privacy, largely spurred by compliance requirements for Europe's General Data Protection Regulation. Although that work is now largely completed, the work gave each project useful practical experience in 
 
-a) creating privacy teams
-b) planning and structuring work on a volunteer-led basis
-c) advocating for the inclusion of the privacy work within release schedules. 
+- creating privacy teams
+- planning and structuring work on a volunteer-led basis
+- advocating for the inclusion of the privacy work within release schedules. 
 
 The compliance work also led each project to understand that privacy is about taking a proactive approach, and deploying the concepts of privacy by design and other best practices as integrated standards throughout CMS projects, and is not merely about coding reactive fixes related to specific legal requirements.
 
@@ -18,7 +18,8 @@ At the heart of this is the belief that privacy is about protecting and empoweri
 
 ## About the proposed coalition
 
-At Drupal Europe in September 2018, contributors from various CMS privacy initiatives met together and compared notes from our respective experiences in a friendly, mutually supportive setting. We realised that although our work is structured very differently from code, structure, and project governance perspectives, we had, as someone once said, more in common that that which divided us.
+At Drupal Europe in September 2018, contributors from various CMS privacy initiatives met together and compared notes from our respective experiences in a friendly, mutually supportive setting. We realised that although our work is structured very differently from code, structure, and project governance perspectives, we had more in common that that which divided us.
+
 This led us to agree to put in [a proposal to the Drupal project to formally support the group.](https://www.drupal.org/project/ideas/issues/3009356). The group would then be hosted and run through the Drupal project structure for everyday administrative support. In our proposal, Chris Teitzel stated:
 
 "The idea is that through collaboration, the open source community can help shape the online community into one that values the user’s data and privacy through a positive and proactive approach to building guidelines, policies, and tools, rather than a negative and responsive approach to compliance as a legal obligation.
