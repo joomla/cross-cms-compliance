@@ -13,7 +13,7 @@ Is the extension collecting personal data that is not needed/being used currentl
 | Consent for additional special categories                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 Is there a functionality to generate additional consent functionalities (checkboxes?) for the up front consent of the users to the use of personal data in case of i.e. marketing, profiling, children data, sensitive data?
-Is the consent functionality connected to the core API
+Is the consent functionality connected to the core API?
 
 | Consent for Cookies collecting personal data                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,33 +28,33 @@ Is there a functionality that gives the user the ability to request and download
 | Right of Access by the Data Subject                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 Does the extension provides a dashboard to the user with settings to edit his/her personal data?
-Is the consent functionality connected to the core API
+Is the consent functionality connected to the core API?
 
 | Right to be Forgotten                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-Is there a functionality to securly delete all of his/her data?
-Is the consent functionality connected to the core API
+Is there a functionality to securly delete all of his/her data?                                                                        
+Is the consent functionality connected to the core API?                                          
 
 | Privacy by Default                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-Does the software have all the settings set to the most private possible due to its scope?
+Does the software have all the settings set to the most private possible due to its scope?                                            
 
 | Security Measures                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 Is there a secure https transmission (SSL/TLS) for all the resources used by the functionality?
 If there is a need to apply encryption, is the data stored encrypted? 
-If there is a need to apply anonymization or pseudonymization techniques are they applied?
+If there is a need to apply anonymization or pseudonymization techniques are they applied?                                            
 
 | Third parties/Subprocessors                                                                                                      |    
 | -------------------------------------------------------------------------------------------------------------------------------- |
-Incase you use third parties to provide a service or a functionality, have you included it to your third parties or subprocessors list
-Have you signed a DPA related document with the third party (in case this is a third party)?
+Incase you use third parties to provide a service or a functionality, have you included it to your third parties or subprocessors list?
+Have you signed a DPA related document with the third party (in case this is a third party)?                                     
 
 | Notification to user                                                                                                             |    
 | -------------------------------------------------------------------------------------------------------------------------------- |
 Do you provide a Privacy Policy to users?
-Do you include users' rights in your Privacy policy
-Do you include all the third party partners in you Privacy Policy
+Do you include users' rights in your Privacy policy?
+Do you include all the third party partners in you Privacy Policy?                                                                      
 
 
 ### Author
