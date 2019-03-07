@@ -1,4 +1,4 @@
-**This is a compliance audit tool to map the GDPR compliance level of your software extension**	
+**This is a compliance audit template to map the GDPR compliance level of your software extension**	
 
 | Personal Data handled/processed and Consent          |
 | ---------------------------------------------------- |
