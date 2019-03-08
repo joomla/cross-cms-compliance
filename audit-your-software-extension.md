@@ -60,9 +60,7 @@ Do you include all the third party partners in you Privacy Policy?
 ### Author
 **V.1 release:**
 
-[**Achilleas Papageorgiou**](https://volunteers.joomla.org/joomlers/2399-achilleas-papageorgiou)
-Joomla! Compliance Team Leader,
-Member of the Cross-CMS Compliance Coalition
+[**Achilleas Papageorgiou**](https://volunteers.joomla.org/joomlers/2399-achilleas-papageorgiou) - Joomla! Compliance Team Leader, Member of the Cross-CMS Compliance Coalition
 
 ### Contributors
 **Alan Mac Kenna (Umbraco CMS), Heather Burns (WordPress), Luca Marzo (Joomla!), Gabor Javorszky (Wordpress)**
