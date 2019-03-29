@@ -23,16 +23,16 @@ If there a functionality to collect consents is provided, is there also a functi
 
 | Right to Data Portability                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-Is there a functionality that gives the user the ability to request and download his/her data?
+Is there a functionality that gives users the ability to request and download their data?
 
 | Right of Access by the Data Subject                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-Does the extension provides a dashboard to the user with settings to edit his/her personal data?
+Does the extension provides a dashboard to the users with settings to edit their personal data?
 Is the consent functionality connected to the core API?
 
 | Right to be Forgotten                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-Is there a functionality to securly delete all of his/her data?                                                                        
+Is there a functionality that offers to users the ability to securly delete all of their data?                                           
 Is the consent functionality connected to the core API?                                          
 
 | Privacy by Default                                                                                                                  |
@@ -48,7 +48,7 @@ If there is a need to apply anonymization or pseudonymization techniques are the
 | Third parties/Subprocessors                                                                                                      |    
 | -------------------------------------------------------------------------------------------------------------------------------- |
 Incase you use third parties to provide a service or a functionality, have you included it to your third parties or subprocessors list?
-Have you signed a DPA related document with the third party (in case this is a third party)?                                     
+Have you signed a DPA related document with third parties (in case you use third parties)?                                     
 
 | Notification to user                                                                                                             |    
 | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ Do you include all the third party partners in you Privacy Policy?
 [**Achilleas Papageorgiou**](https://volunteers.joomla.org/joomlers/2399-achilleas-papageorgiou) - Joomla! Compliance Team Leader, Member of the Cross-CMS Compliance Coalition
 
 ### Contributors
-**Alan Mac Kenna (Umbraco CMS), Heather Burns (WordPress), Luca Marzo (Joomla!), Gabor Javorszky (Wordpress)**
+**Alan Mac Kenna (Umbraco CMS), Heather Burns (WordPress), Luca Marzo (Joomla!), Gabor Javorszky (WordPress)**
 
 
 
