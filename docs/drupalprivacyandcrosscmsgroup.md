@@ -71,3 +71,9 @@ Chris Teitzel is representing the initiative at Drupalcon Seattle. Many of the m
 Chris hopes to bring together enough people to support this so an official initiative can be created.
 
 In the long term we hope to secure funding for the group to cover travel and accommodation expenses for periodic in-person meetups and other directly relevant activities, such as conferences and workshops. We may also seek funding support for our time and labour contributing to opensource privacy, which is already a considerable commitment. We naturally must be careful to consider the values and ethics of any potential sponsors, particularly those which may have a mixed track record on privacy.
+
+More information about the bof can be found here: https://events.drupal.org/seattle2019/bofs/drupal-privacy-initiative
+
+The proposal can be found on drupal.org here: https://www.drupal.org/project/ideas/issues/3009356
+
+
